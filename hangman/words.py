@@ -1,0 +1,1 @@
+word_list =["python","reem","burjkalifa","atmecollege","mellalli","Dominos"]
